@@ -90,6 +90,9 @@ Kombinasi **Average Down Sampling** dan **Bicubic Up Sampling** memberikan hasil
 
 Disini saya juga lampirkan untuk link collab :
 
+
+https://colab.research.google.com/github/gauzamf22/tugas1pcd/blob/main/PCD_Assignment01.ipynb
+
 ## Library
 
 - Python
