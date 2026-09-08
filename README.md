@@ -88,7 +88,7 @@ Kombinasi **Average Down Sampling** dan **Bicubic Up Sampling** memberikan hasil
 3. Siapkan autentikasi Kaggle melalui file `kaggle.json` atau *secret/environment variable*.
 4. Jalankan sel secara berurutan, mulai dari pengunduhan dataset hingga visualisasi perbandingan hasil.
 
-Disini saya juga lampirkan untuk link collab : https://colab.research.google.com/github/gauzamf22/tugas1pcd/blob/main/Muhammad_Gauza_Faliha_Tugas_1_PCD_Down_Sampling_Up_Sampling.ipynb
+Disini saya juga lampirkan untuk link collab :
 
 ## Library
 
